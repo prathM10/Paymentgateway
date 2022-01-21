@@ -1,2 +1,3 @@
-# Paymentgateway
-This Website is developed for dummy online donation.
+# Payment-Gateway-Integration
+
+This Website is made for dummy online donation
